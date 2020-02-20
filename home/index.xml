@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Amlan Kar</title>
-    <link>https://amlankar.github.io/home/</link>
-    <description>Recent content in Homes on Amlan Kar</description>
+    <title>Homes on Arunav SHandilya</title>
+    <link>https://shandilya21.github.io/home/</link>
+    <description>Recent content in Homes on Arunav Shandilya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Amlan Kar</copyright>
+    <copyright>&amp;copy; 2020 Arunav Shandilya</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://amlankar.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shandilya21.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://amlankar.github.io/home/about/</link>
+      <link>https://shandilya21.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://amlankar.github.io/home/about/</guid>
-      <description>Biography I&amp;rsquo;m a graduate student at the University of Toronto advised by Prof. Sanja Fidler. I am broadly interested in Computer Vision problems and their applications. I graduated from IIT Kanpur, India in 2017 with a bachelor&amp;rsquo;s degree where I was fortunate to get to work with Prof. Gaurav Sharma and earlier with Prof. Amitabha Mukerjee. In the summer of 2017, I interned with the wonderful research team at Fyusion Inc.</description>
+      <guid>https://shandilya21.github.io/home/about/</guid>
+      <description>Biography I&amp;rsquo;m a visiting research student at the Indian Institute of Technology hosted by Prof. Asif Ekbal and Prof. Pushpak Bhattacharyya in AI-NLP-ML Lab. I am interested in Natural Language Processing, generative modelling and optimizations related problems and their applications. I graduated from International Institute of Information Technology Bhubaneswar, India in 2019 with a Bachelor&amp;rsquo;s of Technology majors in Electrical and Electronics Engineering with minor in Computer Science where I was fortunate to get to work with Prof. Rakesh Balabantaray. In the summer of 2016, I interned with the wonderful research team at Xerox Research.</description>
     </item>
     
     <item>
