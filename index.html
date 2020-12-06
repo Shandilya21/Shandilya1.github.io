@@ -230,6 +230,7 @@
               <div class="col-xs-0 col-md-4">
                 
                  <span>
+        <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241271">
         <img class="pub-img" src="https://shandilya21.github.io/img/m2d.png" >
         </img>
     </a>
@@ -254,6 +255,36 @@
 <a class="btn btn-primary btn-outline btn-xs" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241271">
 PDF
 </a>
+
+<a class="btn btn-primary btn-outline btn-xs"
+onclick="
+    var div = document.getElementById('steal_bib');
+    if (div.style.display !== 'none') {
+        div.style.display = 'none';
+    }
+    else {
+        div.style.display = 'block';
+    }
+">
+  BibTeX
+</a>
+
+<pre id = "steal_bib", style="display:none">
+@article{10.1371/journal.pone.0241271,
+    author = {Firdaus, Mauajama AND Pratap Shandeelya, Arunav AND Ekbal, Asif},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {More to diverse: Generating diversified responses in a task oriented multimodal dialog system},
+    year = {2020},
+    month = {11},
+    volume = {15},
+    url = {https://doi.org/10.1371/journal.pone.0241271},
+    pages = {1-26},
+    abstract = {Multimodal dialogue system, due to its many-fold applications, has gained much attention to the researchers and developers in recent times. With the release of large-scale multimodal dialog dataset Saha et al. 2018 on the fashion domain, it has been possible to investigate the dialogue systems having both textual and visual modalities. Response generation is an essential aspect of every dialogue system, and making the responses diverse is an important problem. For any goal-oriented conversational agent, the system’s responses must be informative, diverse and polite, that may lead to better user experiences. In this paper, we propose an end-to-end neural framework for generating varied responses in a multimodal dialogue setup capturing information from both the text and image. Multimodal encoder with co-attention between the text and image is used for focusing on the different modalities to obtain better contextual information. For effective information sharing across the modalities, we combine the information of text and images using the BLOCK fusion technique that helps in learning an improved multimodal representation. We employ stochastic beam search with Gumble Top K-tricks to achieve diversified responses while preserving the content and politeness in the responses. Experimental results show that our proposed approach performs significantly better compared to the existing and baseline methods in terms of distinct metrics, and thereby generates more diverse responses that are informative, interesting and polite without any loss of information. Empirical evaluation also reveals that images, while used along with the text, improve the efficiency of the model in generating diversified responses.},
+    number = {11},
+    doi = {10.1371/journal.pone.0241271}
+}
+</pre>
     <p>
     
                   
